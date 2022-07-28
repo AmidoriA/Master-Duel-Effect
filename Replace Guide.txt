@@ -1,0 +1,41 @@
+(\.\ \(.*\))(\s)
+\1\\n\\n
+
+. 
+.\n\n
+
+min.\n\n
+min. 
+
+max.\n\n
+max. 
+
+P.U.N.K.\n\n
+P.U.N.K. 
+
+\n\nThen
+\nThen
+
+\n\nYou can only use this effect
+\nYou can only use this effect
+
+D.D.\n\n
+D.D. 
+
+B.E.S.\n\n
+B.E.S. 
+
+T.G.\n\n
+T.G. 
+
+U.A.\n\n
+U.A. 
+
+Dr.\n\n
+Dr. 
+
+F.A.\n\n
+F.A. 
+
+A.I.\n\n
+A.I. 
