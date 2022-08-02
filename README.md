@@ -1,5 +1,8 @@
 # Master-Duel-Effect
 
+## Download
+* [Nexus Mods](https://www.nexusmods.com/yugiohmasterduel/mods/340)
+
 ## Required Tools for build
 * [Python 3](https://www.python.org/downloads/)
 * [AssetStudio](https://github.com/Perfare/AssetStudio/releases) - Tool for read a list of asset in Unity
